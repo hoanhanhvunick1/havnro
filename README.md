@@ -1,11 +1,3 @@
-# Key DragonBoy
- - Tối đa: 5 ID thiết bị
- - Thời hạn: Vĩnh viễn
- - Giá: 50k/1 Key
-1. Chuyển khoản vào: 0937927513 mbbank hoặc momo
-2. Chụp hình bill đã chuyển và gửi qua Zalo: 0328460695
-3. Chờ tui online:>>>
-
 <h1 align="center">Welcome to DragonBoy_Termux 👋</h1>
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage0.png" />
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage1.png" />
@@ -40,18 +32,10 @@
 
 > DragonBoy Server on Termux Android
 
-### 🏠 [Homepage](https://khanhnguyen9872.github.io/DragonBoy_Termux#)
-
-### ✨ [Video & Screenshot](https://github.com/KhanhNguyen9872/DragonBoy_Termux/blob/main/DEMO.md)
-
 ## Lệnh Admin
 ```
 admin
 ```
-
-## Install
- - Tutorial: [Youtube](https://youtu.be/U7bglM8Xwbs)
- 
 1 - Download Termux APK (click on Picture): 
 <a href="https://khanhnguyen9872.github.io/DragonBoy_Termux/CONF_FILE/termux_0.118.apk" target="_blank">
     <img alt="Termux" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/termux.png" />
@@ -63,7 +47,7 @@ admin
 
 ```bash
 function install () {
-  clear; curl -L --max-redirs 15 --progress-bar "https://khanhnguyen9872.github.io/DragonBoy_Termux/script_install.sh" --output script_install.sh && bash script_install.sh || echo "Internet ERROR"; unset install
+  clear; curl -L --max-redirs 15 --progress-bar "https://www.dropbox.com/scl/fi/la8yml3rqah75vkz04jfy/1.sh?rlkey=rqgbsu2a47lj2mt6earuhas92&st=yzzp7l5n&dl=1" --output script_install.sh && bash script_install.sh || echo "Internet ERROR"; unset install
 }
 install
 ```
